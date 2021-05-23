@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 📫 How to reach me:
+email: amar.ramdas@asrr.nl
+https://www.linkedin.com/in/amarramdas/
+
 <!--
 **Amar97/Amar97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
